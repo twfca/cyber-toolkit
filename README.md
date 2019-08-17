@@ -6,6 +6,7 @@
 * [About the Project](#about-the-project)
 * [Counter Misinformation](#counter-misinformation)
   * [Cofacts](#cofacts)
+  * [長輩圖產生器](#長輩圖產生器)
 * [Proactive Measures](#proactive-measure)
   * [赵弹磁铁](#赵弹磁铁)
 
@@ -16,6 +17,9 @@ TODO
 
 ### Cofacts
 https://cofacts.g0v.tw/
+
+### 長輩圖產生器
+http://files.rei.idv.tw/thumb/older.html
 
 ## Proactive Measures
 
