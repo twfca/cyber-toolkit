@@ -7,6 +7,7 @@
 * [Counter Misinformation](#counter-misinformation)
   * [Cofacts](#cofacts)
   * [長輩圖產生器](#長輩圖產生器)
+  * [2020總統候選人之事實查核計畫](#2020總統候選人之事實查核計畫)
 * [Demonstration](#demonstration)
   * [tw-support-hk](#tw-support-hk)
 * [Proactive Measures](#proactive-measures)
@@ -24,6 +25,9 @@ https://cofacts.g0v.tw/
 
 ### 長輩圖產生器
 http://files.rei.idv.tw/thumb/older.html
+
+### 2020總統候選人之事實查核計畫
+https://www.readr.tw/project/fact-check-2020
 
 
 
